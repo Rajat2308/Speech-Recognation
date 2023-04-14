@@ -1,4 +1,4 @@
-# ConsoleApp3
+# Speech recognition
 A speech recognition cloud project involves developing a system that can recognize speech input and provide accurate and reliable results to the users. The system can be built using machine learning algorithms and cloud computing services. Here's a rough outline of what the project could include:
 
 Data collection and preparation: The first step is to collect a large dataset of speech samples with different accents, languages, and background noises. You'll also need to preprocess the data, segment the speech signals, and extract the relevant features.
